@@ -1,0 +1,12 @@
+NEVENT 999                 
+PTMIN 50.d0
+PTMAX 350.d0
+ETAMAX 4.2
+WEIGHTED T
+KEEPRECOILS T
+HADRO T
+SHORTHEPMC T
+WRITESCATCEN T
+WRITEDUMMIES T                                                          
+SQRTS 5020.
+WEXPO 5.D0
